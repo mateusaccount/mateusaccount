@@ -8,6 +8,8 @@
 ![Estatísticas do GitHub de mateusaccount](https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaccount&layout=compact&theme=dark)
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mateusaccount&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **mateusaccount/mateusaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
