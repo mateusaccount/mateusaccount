@@ -5,6 +5,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" />
 
+![Estatísticas do GitHub de mateusaccount](https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaccount&layout=compact&theme=dark)
+
 <!--
 **mateusaccount/mateusaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
