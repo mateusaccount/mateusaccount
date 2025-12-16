@@ -1,8 +1,29 @@
-<h1>Bem vindo ao meu perfil do GitHub!<h1/>
+<div align="center">
+  <h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
+  <sub>Desenvolvedor focado em Python e Ecossistema Web</sub>
+</div>
 
-## 🛠️ Technologies and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" />
+<br/>
 
-## 📈​ Github stats
-![Mateus Cosme GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaccount&layout=compact&theme=dark)
+<div align="center">
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <div style="display: inline_block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📈 Estatísticas do GitHub</h2>
+  <a href="https://github.com/mateusaccount">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br&count_private=true" alt="Mateus GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaccount&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
+</div>
