@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
-  <sub>Desenvolvedor web</sub>
+  <sub>Desenvolvedor Web</sub>
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 <div align="center">
   <h2>📈 Estatísticas do GitHub</h2>
   <a href="https://github.com/mateusaccount">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br&count_private=true" alt="Mateus GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusaccount&show_icons=true&theme=dark&locale=pt-br&count_private=true&include_all_commits=true" alt="Mateus GitHub Stats" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaccount&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </div>
