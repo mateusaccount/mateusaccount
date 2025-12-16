@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
-  <sub>Desenvolvedor focado em Python e Ecossistema Web</sub>
+  <sub>Desenvolvedor web</sub>
 </div>
 
 <br/>
