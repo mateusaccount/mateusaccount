@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
-  <sub>Desenvolvedor Web</sub>
+  <sub>Estudando para me tornar um desenvolvedor full-stack, fique a vontade para visualizar meus projetos</sub>
 </div>
 
 <br/>
